@@ -10,8 +10,6 @@ The topic names are:
 
  /android/imu
  /android/fix (GPS)
- /camera/camera_info
- /camera/image/compressed
 
 
 Compiling:
